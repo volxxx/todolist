@@ -1,5 +1,6 @@
 .goxc.local.json
 dist
+_vendor*
 
 # OSX metadata
 .DS_Store
